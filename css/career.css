@@ -1,0 +1,26 @@
+html{
+	scroll-behavior: smooth; 
+}
+*{margin: 0px; padding: 0px; box-sizing: border-box;font-family: 'Poppins', sans-serif;}
+
+ul{
+	list-style: none; 
+}
+
+li a{
+	color: #fff; 
+}
+
+li a:hover{
+	text-decoration: none;
+	color: #f4a896; 
+
+}
+
+
+.foot{
+	width: 100%;
+	height: auto;
+	background: #000;
+	padding: 40px 40px 40px 40px;
+}
